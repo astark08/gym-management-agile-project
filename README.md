@@ -3,7 +3,7 @@
 This repository contains the Agile planning, backlog, and sprint documentation for the Gym Management App.  
 The project follows Scrum with Kanban support and DevOps integration, based on Week 5 Agile and Iterative Development Methods.
 
-## 📁 Repository Structure
+## Repository Structure
 
 - **docs/**
   - Agile-Plan.md — Full Agile framework explanation for the project
@@ -13,7 +13,7 @@ The project follows Scrum with Kanban support and DevOps integration, based on W
   - Sprint-1-Plan.md — Sprint goal, backlog, tasks, and DoD
   - Sprint-1-Review.md — Review summary and retrospective notes
 
-## 🎯 Project Overview
+## Project Overview
 
 The Gym Management App helps gyms manage:
 - Member check-ins  

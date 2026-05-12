@@ -28,7 +28,6 @@
 ## Retrospective Notes
 
 ### What Went Well
-- Team collaborated effectively
 - No major blockers
 - Codebase is clean and organized
 

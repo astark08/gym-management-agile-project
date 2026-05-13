@@ -80,4 +80,5 @@ Below are real tools that could support each stage of the pipeline:
 | Monitoring | Grafana, AWS CloudWatch | Tracks performance and errors |
 
 These tools would work together to create a fully automated CI/CD pipeline that ensures quality, reliability, and fast delivery.
+![CI/CD Pipeline Diagram](images/ci-cd-diagram.png)
 
